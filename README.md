@@ -1,2 +1,3 @@
-# MAAGE-BRC.github.io
-MAAGE-BRC GitHub Page
+# MAAGE GitHub Pages
+
+[https://maage-brc.github.io](https://maage-brc.github.io)
